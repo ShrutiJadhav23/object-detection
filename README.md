@@ -1,0 +1,1 @@
+Object detection in OpenCV is a computer vision technique used to identify and locate objects within an image or video. Unlike simple image recognition, which classifies an entire image, object detection draws a bounding box around each detected object and assigns it a class label. 
